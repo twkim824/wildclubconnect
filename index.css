@@ -1,0 +1,217 @@
+
+
+.create {
+    color: white;
+    font-weight: bold;
+    height: 7%;
+    line-height:50px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: #62179B;
+    transition-duration:0.4s;
+    vertical-align: center;
+}
+
+.create:hover {
+    background-color: #45106D;
+}
+
+#notsignedin {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+        .username {
+            color:white;
+			font-size: 100%;
+			font-family: tahoma;	
+			float:right;
+			padding: 15px;
+			background-color: #62179B;
+			margin-right: none;
+			transition-duration: 0.4s;
+        }    
+
+        .username:hover {
+			background-color: #45106D;
+            cursor: pointer;
+        }    
+
+		.signin_button {
+			color:white;
+			font-size: 100%;
+			font-family: tahoma;	
+			float:right;
+			padding: 15px;
+			background-color: #62179B;
+			margin-right: 10%;
+			transition-duration: 0.4s;
+		}
+
+		.signin_button:hover {
+			background-color: #45106D;
+		}
+            
+		a.one:link {
+			color:black;
+			text-decoration:none;
+		}
+
+        a.one:hover {
+			text-decoration: underline;
+		}
+
+		a.one:visited {
+			color:black;
+			text-decoration:none;
+		}
+            
+        a.two {
+			color:white;
+			text-decoration:none;
+		}
+
+        a.two:hover {
+			text-decoration: underline;
+		}
+    
+                a.three {
+              color:white;
+        }
+
+		a.two:visited {
+			color:white;
+			text-decoration:none;
+		}
+
+        a.three {
+            text-decoration: none;
+        }
+
+        a.three:hover {
+            text-decoration: none;
+        }
+            
+        a.three:visited {
+            color:white;
+        }
+
+		.signup_button a {
+			text-decoration: none;
+			color: white;
+		}
+
+		.signup_button a:visited {
+			text-decoration: none;
+		}
+
+		.signup_button a:hover {
+			text-decoration: none;
+		}
+
+        .signup_button a {
+			text-decoration: none;
+			color: white;
+		}
+
+		.signup_button a:visited {
+			text-decoration: none;
+		}
+
+		.signup_button a:hover {
+			text-decoration: underline;
+		}
+
+        table, tr, td, th {
+            border:none;
+        }		
+
+        img {
+			width:100%;
+			position:relative;
+		}
+
+		#topbar {
+			width: 100%;
+			height: 50px;
+			margin:0 auto;
+			background-color: #222222;
+			margin: 0;
+		}
+
+		#WildClubs {
+			color: white;
+			font-size: 120%;
+			padding: 13px;
+            margin-right: 50px;
+			margin-left: 10%;
+			float:left;
+			font-family: tahoma;
+		}
+
+
+		.signup_button {
+			position:absolute;
+			color:white;
+			font-size:80%;
+			font-family:tahoma;
+			padding: 3px;
+			background-color: none;
+			right: 2%;
+			top: 1.8%;
+		}
+
+
+		#background {
+			background-image: url("./Images/campus.jpg");
+			background-repeat: no-repeat;
+			background-size: 100%;
+			font-family: arial black;
+			color:white;
+			font-size:600%;
+			text-align:center;
+			font-weight: bold;
+			padding:5%;
+		}
+
+
+		#grey {
+			height: 150%;
+			width: 100%;
+
+		}
+
+
+
+
+
+		#browse {
+			height:100%;
+            width:40%;
+			background-color:white;
+            outline: 4px solid #46106E;
+			float:left;
+		}
+
+    
+
+		#sort {
+			padding-top: 200px;
+		}
+
+		select {
+			width:50%;
+			margin-left:4%;
+		}
+
+		#list {
+			float:right;
+		}
+
+		body {
+			margin: 0;
+			background-color: white;
+			padding: 0;
+			font-family: tahoma;
+		}
